@@ -4,5 +4,8 @@
   },
   "hosting": {
     "public": "public"
+  },
+  "objecto": {
+    "nuevo": 1
   }
 }
